@@ -14,10 +14,10 @@
 
 ```bash
 # 拉取代码
-git clone https://github.com/ZHT131/brisk-admin-doc
+git clone https://github.com/ZHT131/brisk-admin-doc.git
 
 # 进入项目目录
-cd naive-ui-admin-docs
+cd brisk-admin-doc
 
 # 安装依赖
 yarn

@@ -46,8 +46,14 @@ export const data = {
   ],
   "filePathRelative": "guide/introduction.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1629293253000,
+    "contributors": [
+      {
+        "name": "孤影浪人",
+        "email": "1315723390@qq.com",
+        "commits": 1
+      }
+    ]
   }
 }
 

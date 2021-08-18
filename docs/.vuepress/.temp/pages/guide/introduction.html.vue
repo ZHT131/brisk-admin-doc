@@ -8,10 +8,10 @@
 <h3 id="本地运行文档" tabindex="-1"><a class="header-anchor" href="#本地运行文档" aria-hidden="true">#</a> 本地运行文档</h3>
 <p>如需本地运行文档，请拉取代码到本地。</p>
 <div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code><span class="token comment"># 拉取代码</span>
-<span class="token function">git</span> clone https://github.com/ZHT131/brisk-admin-doc
+<span class="token function">git</span> clone https://github.com/ZHT131/brisk-admin-doc.git
 
 <span class="token comment"># 进入项目目录</span>
-<span class="token builtin class-name">cd</span> naive-ui-admin-docs
+<span class="token builtin class-name">cd</span> brisk-admin-doc
 
 <span class="token comment"># 安装依赖</span>
 <span class="token function">yarn</span>
