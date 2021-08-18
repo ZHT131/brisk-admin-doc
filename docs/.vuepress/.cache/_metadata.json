@@ -1,0 +1,31 @@
+{
+  "hash": "1e5386b8",
+  "browserHash": "a8b2607d",
+  "optimized": {
+    "vue": {
+      "file": "C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.cache/vue.js",
+      "src": "C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.cache/vue-router.js",
+      "src": "C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "file": "C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/node_modules/@vueuse/core/index.esm.js",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.cache/nprogress.js",
+      "src": "C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    }
+  }
+}
