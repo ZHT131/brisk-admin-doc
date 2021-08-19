@@ -5,7 +5,14 @@ export const data = {
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "1.0.0 (2021-08-20)",
+      "slug": "_1-0-0-2021-08-20",
+      "children": []
+    }
+  ],
   "filePathRelative": "guide/changelog.md",
   "git": {
     "updatedTime": 1629293253000,

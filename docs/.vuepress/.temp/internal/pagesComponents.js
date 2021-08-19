@@ -9,6 +9,8 @@ export const pagesComponents = {
   "v-eb14d09e": defineAsyncComponent(() => import(/* webpackChunkName: "v-eb14d09e" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/guide/changelog.html.vue")),
   // path: /guide/introduction.html
   "v-1c7b2593": defineAsyncComponent(() => import(/* webpackChunkName: "v-1c7b2593" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/guide/introduction.html.vue")),
+  // path: /guide/start.html
+  "v-621628ba": defineAsyncComponent(() => import(/* webpackChunkName: "v-621628ba" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/guide/start.html.vue")),
   // path: /other/donate.html
   "v-5539b51c": defineAsyncComponent(() => import(/* webpackChunkName: "v-5539b51c" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/other/donate.html.vue")),
   // path: /404.html

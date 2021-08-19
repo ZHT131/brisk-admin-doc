@@ -1,7 +1,7 @@
 module.exports = {
     lang: 'zh-CN',
     title: "Brisk-Admin",
-    description: "一个基于vue3+element-plus+vite开箱即用的后台前端框架",
+    description: "一个基于vue3+element-plus+vite开箱即用的后台前端框架，杜绝繁琐，只为更轻更快！",
     head:  [
         ['meta', { name: 'author', content: 'Zhang Hong tao' }],
         [
@@ -72,7 +72,7 @@ module.exports = {
         '/guide/': [
           {
             text: '基础',
-            children: ['/guide/introduction.md','/guide/changelog.md'],
+            children: ['/guide/introduction.md','/guide/start.md','/guide/changelog.md'],
           },
         ],
         '/components/': [

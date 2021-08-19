@@ -31,7 +31,7 @@
 <li><a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer">Vitejs<OutboundLink/></a></li>
 </ul>
 <h2 id="浏览器支持" tabindex="-1"><a class="header-anchor" href="#浏览器支持" aria-hidden="true">#</a> 浏览器支持</h2>
-<p><strong>本地开发</strong>推荐使用<code>Chrome 最新版</code>浏览器，<strong>不支持</strong><code>Chrome 80</code>以下版本。</p>
+<p><strong>本地开发</strong>推荐使用<code>Chrome 最新版</code>浏览器。</p>
 <p><strong>生产环境</strong>支持现代浏览器，不支持 IE。</p>
 <h2 id="加入我们" tabindex="-1"><a class="header-anchor" href="#加入我们" aria-hidden="true">#</a> 加入我们</h2>
 <ul>

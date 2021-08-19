@@ -51,6 +51,7 @@ export const themeData = {
         "text": "基础",
         "children": [
           "/guide/introduction.md",
+          "/guide/start.md",
           "/guide/changelog.md"
         ]
       }
