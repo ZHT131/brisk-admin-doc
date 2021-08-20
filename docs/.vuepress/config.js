@@ -72,7 +72,7 @@ module.exports = {
         '/guide/': [
           {
             text: '基础',
-            children: ['/guide/introduction.md','/guide/start.md','/guide/changelog.md'],
+            children: ['/guide/introduction.md','/guide/start.md', '/guide/settings.md','/guide/changelog.md'],
           },
         ],
         '/components/': [

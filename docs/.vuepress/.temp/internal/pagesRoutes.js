@@ -5,6 +5,7 @@ const routeItems = [
   ["v-756f05ca","/components/crud.html","",["/components/crud","/components/crud.md"]],
   ["v-eb14d09e","/guide/changelog.html","更新日志",["/guide/changelog","/guide/changelog.md"]],
   ["v-1c7b2593","/guide/introduction.html","介绍",["/guide/introduction","/guide/introduction.md"]],
+  ["v-add76dac","/guide/settings.html","项目配置项",["/guide/settings","/guide/settings.md"]],
   ["v-621628ba","/guide/start.html","开始",["/guide/start","/guide/start.md"]],
   ["v-5539b51c","/other/donate.html","赞助",["/other/donate","/other/donate.md"]],
   ["v-3706649a","/404.html","",["/404"]],

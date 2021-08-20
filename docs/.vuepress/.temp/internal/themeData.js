@@ -52,6 +52,7 @@ export const themeData = {
         "children": [
           "/guide/introduction.md",
           "/guide/start.md",
+          "/guide/settings.md",
           "/guide/changelog.md"
         ]
       }

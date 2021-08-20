@@ -7,6 +7,8 @@ export const pagesData = {
   "v-eb14d09e": () => import(/* webpackChunkName: "v-eb14d09e" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/guide/changelog.html.js").then(({ data }) => data),
   // path: /guide/introduction.html
   "v-1c7b2593": () => import(/* webpackChunkName: "v-1c7b2593" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/guide/introduction.html.js").then(({ data }) => data),
+  // path: /guide/settings.html
+  "v-add76dac": () => import(/* webpackChunkName: "v-add76dac" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/guide/settings.html.js").then(({ data }) => data),
   // path: /guide/start.html
   "v-621628ba": () => import(/* webpackChunkName: "v-621628ba" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/guide/start.html.js").then(({ data }) => data),
   // path: /other/donate.html
