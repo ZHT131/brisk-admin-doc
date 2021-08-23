@@ -6,7 +6,7 @@ actions:
     link: /guide/introduction.html
     type: primary
   - text: 在线预览
-    link: https://github.com/ZHT131/brisk-admin
+    link: http://brisk-admin.ybym.top/
     type: secondary
 
 features:
