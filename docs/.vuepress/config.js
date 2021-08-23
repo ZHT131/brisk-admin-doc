@@ -81,6 +81,8 @@ module.exports = {
             "/guide/start.md",
             "/guide/settings.md",
             "/guide/router.md",
+            "/guide/mock.md",
+            "/guide/build.md",
             "/guide/changelog.md",
           ],
         },

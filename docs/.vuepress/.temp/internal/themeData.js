@@ -54,6 +54,7 @@ export const themeData = {
           "/guide/start.md",
           "/guide/settings.md",
           "/guide/router.md",
+          "/guide/mock.md",
           "/guide/changelog.md"
         ]
       }
