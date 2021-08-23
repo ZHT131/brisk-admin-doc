@@ -3,7 +3,7 @@
 <p><a href="https://github.com/ZHT131/brisk-admin" target="_blank" rel="noopener noreferrer">Brisk-Admin<OutboundLink/></a> 是一个基于 <a href="https://github.com/vuejs/vue-next" target="_blank" rel="noopener noreferrer">Vue3.0<OutboundLink/></a>、<a href="https://github.com/vitejs/vite" target="_blank" rel="noopener noreferrer">Vite<OutboundLink/></a>、 <a href="https://element-plus.gitee.io/" target="_blank" rel="noopener noreferrer">element-plus<OutboundLink/></a>、JavaScript的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务页面，包括二次封装组件、动态路由菜单、国际化、动态换肤等功能，它可以帮助你快速搭建中后台项目，该项目使用最新的前端技术栈，使用javascript语法保留了对不熟悉typescript语法用户的友好，同时框架很适合轻松上手使用，希望给你带来帮助。</p>
 <h2 id="文档" tabindex="-1"><a class="header-anchor" href="#文档" aria-hidden="true">#</a> 文档</h2>
 <ul>
-<li>中文文档地址为 <a href="https://github.com/ZHT131/brisk-admin-doc" target="_blank" rel="noopener noreferrer">brisk-admin-doc<OutboundLink/></a>，采用 Vuepress 开发。如发现文档有误，欢迎提 pr 帮助我们改进。</li>
+<li>中文文档地址为 <a href="https://github.com/ZHT131/brisk-admin-doc" target="_blank" rel="noopener noreferrer">brisk-admin-doc<OutboundLink/></a>。如发现文档有误，欢迎提 pr 帮助我们改进。</li>
 </ul>
 <h3 id="本地运行文档" tabindex="-1"><a class="header-anchor" href="#本地运行文档" aria-hidden="true">#</a> 本地运行文档</h3>
 <p>如需本地运行文档，请拉取代码到本地。</p>

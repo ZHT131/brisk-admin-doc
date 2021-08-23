@@ -51,7 +51,7 @@ module.exports = {
         children: [
           {
             text: "在线预览",
-            link: "https://github.com/ZHT131/brisk-admin",
+            link: "http://brisk-admin.ybym.top/",
           },
           {
             text: "项目源码",

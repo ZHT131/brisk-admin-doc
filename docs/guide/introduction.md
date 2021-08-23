@@ -6,7 +6,7 @@
 
 ## 文档
 
-- 中文文档地址为 [brisk-admin-doc](https://github.com/ZHT131/brisk-admin-doc)，采用 Vuepress 开发。如发现文档有误，欢迎提 pr 帮助我们改进。
+- 中文文档地址为 [brisk-admin-doc](https://github.com/ZHT131/brisk-admin-doc)。如发现文档有误，欢迎提 pr 帮助我们改进。
 
 ### 本地运行文档
 
