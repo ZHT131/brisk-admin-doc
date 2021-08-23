@@ -5,6 +5,8 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /components/crud.html
   "v-756f05ca": defineAsyncComponent(() => import(/* webpackChunkName: "v-756f05ca" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/components/crud.html.vue")),
+  // path: /components/dialogcom.html
+  "v-4abf9480": defineAsyncComponent(() => import(/* webpackChunkName: "v-4abf9480" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/components/dialogcom.html.vue")),
   // path: /guide/build.html
   "v-10af5117": defineAsyncComponent(() => import(/* webpackChunkName: "v-10af5117" */"C:/Users/yunmiao/Desktop/brisk/brisk-admin-doc/docs/.vuepress/.temp/pages/guide/build.html.vue")),
   // path: /guide/changelog.html

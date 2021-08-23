@@ -90,7 +90,7 @@ module.exports = {
       "/components/": [
         {
           text: "常用组件",
-          children: ["/components/crud.md"],
+          children: ["/components/crud.md","/components/dialogcom.md"],
         },
       ],
     },

@@ -55,6 +55,7 @@ export const themeData = {
           "/guide/settings.md",
           "/guide/router.md",
           "/guide/mock.md",
+          "/guide/build.md",
           "/guide/changelog.md"
         ]
       }
@@ -63,7 +64,8 @@ export const themeData = {
       {
         "text": "常用组件",
         "children": [
-          "/components/crud.md"
+          "/components/crud.md",
+          "/components/dialogcom.md"
         ]
       }
     ]
