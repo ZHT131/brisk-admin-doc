@@ -1,1 +1,0 @@
-const e={key:"v-eb14d09e",path:"/guide/changelog.html",title:"更新日志",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"1.0.0 (2021-08-20)",slug:"_1-0-0-2021-08-20",children:[]}],filePathRelative:"guide/changelog.md",git:{updatedTime:162934402e4,contributors:[{name:"孤影浪人",email:"1315723390@qq.com",commits:2}]}};export{e as data};
