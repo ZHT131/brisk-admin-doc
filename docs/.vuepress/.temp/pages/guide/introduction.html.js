@@ -46,12 +46,12 @@ export const data = {
   ],
   "filePathRelative": "guide/introduction.md",
   "git": {
-    "updatedTime": 1629699374000,
+    "updatedTime": 1630650864000,
     "contributors": [
       {
         "name": "孤影浪人",
         "email": "1315723390@qq.com",
-        "commits": 4
+        "commits": 5
       }
     ]
   }
