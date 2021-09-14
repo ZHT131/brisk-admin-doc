@@ -42,22 +42,16 @@ export const data = {
       "title": "路由刷新",
       "slug": "路由刷新",
       "children": []
-    },
-    {
-      "level": 2,
-      "title": "外联",
-      "slug": "外联",
-      "children": []
     }
   ],
   "filePathRelative": "guide/router.md",
   "git": {
-    "updatedTime": 1629449600000,
+    "updatedTime": 1631607737000,
     "contributors": [
       {
         "name": "孤影浪人",
         "email": "1315723390@qq.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   }

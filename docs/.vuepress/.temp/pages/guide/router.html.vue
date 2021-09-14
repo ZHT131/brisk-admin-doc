@@ -234,6 +234,4 @@
 <p>为了简化使用，暂时只使用了element-plus内置图标，没有内置其他自定义图标库，有需要的可以自己集成！后期会考虑内置一套！</p>
 <h2 id="路由刷新" tabindex="-1"><a class="header-anchor" href="#路由刷新" aria-hidden="true">#</a> 路由刷新</h2>
 <p>项目中采用的是动态加载加<strong>重定向</strong>方式，刚加载的路由会执行重定向到当前打开页以确保打开最新加载页，顶部导航栏加入了刷新按钮，可以点击执行当前页面重载！</p>
-<h2 id="外联" tabindex="-1"><a class="header-anchor" href="#外联" aria-hidden="true">#</a> 外联</h2>
-<p>在侧边栏中配置一个外链，暂时未实现，下一个版本将加入！</p>
 </template>
